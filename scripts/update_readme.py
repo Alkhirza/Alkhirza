@@ -7,7 +7,7 @@ from datetime import datetime
 README = pathlib.Path("README.md")
 START = "<!-- RECENT:START -->"
 END = "<!-- RECENT:END -->"
-USER = "fairuz-al"
+USER = "Alkhirza"
 MAX_ROWS = 8
 
 raw = subprocess.check_output([
