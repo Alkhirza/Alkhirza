@@ -5,6 +5,10 @@ on:
     - cron: "0 0 * * *"   # daily at 00:00 UTC
   workflow_dispatch:       # allows a manual run from the Actions tab
 
+concurrency:
+  group: profile-main
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
