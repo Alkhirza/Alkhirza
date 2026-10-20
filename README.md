@@ -60,14 +60,8 @@ I build backend services and web applications with a focus on clean architecture
 
 <p align="center">
   <a href="https://github.com/Alkhirza">
-    <img src="https://raw.githubusercontent.com/Alkhirza/Alkhirza/main/metrics.svg" alt="GitHub metrics" />
+    <img src="https://raw.githubusercontent.com/Alkhirza/Alkhirza/main/github-metrics.svg" alt="GitHub metrics" />
   </a>
-</p>
-
-## 🧰 Skills
-
-<p align="center">
-  <a href="https://github.com/Alkhirza?tab=repositories&language=go"><img src="https://skillicons.dev/icons?i=go,python,php,laravel,react,js,html,css,docker,git,github,linux" alt="Skills" /></a>
 </p>
 
 ## 📦 Recent Repositories
