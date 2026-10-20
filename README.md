@@ -1,36 +1,37 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center">Hi, I'm Siba 👋</h1>
+<p align="center">
+  Informatics student at Universitas Sebelas Maret · Full-stack & mobile developer
+</p>
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fairuz-al&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairuz-al&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="170"/>
+</p>
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 🛠 Stack
 
-###
+**Backend:** Go · Python (FastAPI) · PHP (Laravel)
+**Frontend:** React · JavaScript · HTML/CSS
+**Mobile:** <!-- add your framework, e.g. Flutter / React Native / Kotlin -->
+**Tools:** Git · Docker · GitHub Actions · Linux
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## 🚀 Featured projects
 
-###
+| Project | What it does | Stack |
+|---|---|---|
+| **AgroAI** | Agricultural recommendation service using fuzzy logic and forward chaining | FastAPI, Python |
+| **HalоMBG** | Monitoring platform for Indonesia's Makan Bergizi Gratis program | Laravel, React |
+| **Bingilo** | Multi-tenant backend with per-business role-based access control | Go |
+| **Project-EigenFace** | Face recognition using eigenfaces, built on linear algebra | Python |
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## 🔭 Currently
 
-###
+- Building and documenting backend services with clean architecture and tests
+- Practicum work on Beleef NLP, a digital NLP practice tool
+
+## 📦 Recent repositories
+
+<!-- RECENT:START -->
+<!-- RECENT:END -->
+
+<sub>This section updates automatically each day via GitHub Actions.</sub>
