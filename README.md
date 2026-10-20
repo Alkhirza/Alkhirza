@@ -77,8 +77,6 @@ I build backend services and web applications with a focus on clean architecture
 | [L0124014_Fairuz-Siba-Al-Khirza_LearningLabs-](https://github.com/fairuz-al/L0124014_Fairuz-Siba-Al-Khirza_LearningLabs-) | HTML | Pekerjaan Front End | 2024-11-09 |
 <!-- RECENT:END -->
 
-<sub>This table updates automatically every day via GitHub Actions.</sub>
-
 ---
 
 <div align="center">
