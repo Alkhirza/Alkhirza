@@ -4,9 +4,9 @@
 
 **Fairuz Siba Al Khirza**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=fairuz-al&style=flat-square&color=blue&label=Profile+Views)](https://github.com/fairuz-al)
-[![Followers](https://img.shields.io/github/followers/fairuz-al?style=flat-square&logo=github&label=Followers)](https://github.com/fairuz-al?tab=followers)
-[![Stars](https://img.shields.io/github/stars/fairuz-al?style=flat-square&logo=github&label=Stars)](https://github.com/fairuz-al?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=Alkhirza&style=flat-square&color=blue&label=Profile+Views)](https://github.com/Alkhirza)
+[![Followers](https://img.shields.io/github/followers/Alkhirza?style=flat-square&logo=github&label=Followers)](https://github.com/Alkhirza?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Alkhirza?style=flat-square&logo=github&label=Stars)](https://github.com/Alkhirza?tab=repositories)
 
 </div>
 
@@ -52,16 +52,16 @@ I build backend services and web applications with a focus on clean architecture
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fairuz-al&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairuz-al&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alkhirza&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alkhirza&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="170"/>
 </p>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fairuz-al/fairuz-al/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/fairuz-al/fairuz-al/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alkhirza/Alkhirza/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Alkhirza/Alkhirza/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
