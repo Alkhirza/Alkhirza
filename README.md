@@ -56,10 +56,6 @@ I build backend services and web applications with a focus on clean architecture
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairuz-al&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fairuz-al&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub trophies" />
-</p>
-
 ## 🐍 Contribution Snake
 
 <p align="center">
