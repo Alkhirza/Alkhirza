@@ -70,11 +70,11 @@ I build backend services and web applications with a focus on clean architecture
 <!-- RECENT:START -->
 | Repo | Language | Description | Last push |
 |---|---|---|---|
-| [managery-schedule-UNS](https://github.com/fairuz-al/managery-schedule-UNS) | JavaScript | I create this project to effectively get schedule when i was on my campus use file that contain my class and file generate uns | 2026-08-25 |
-| [AgroAI](https://github.com/fairuz-al/AgroAI) | HTML | - | 2026-07-08 |
-| [Financial-Manager_LaravelBased](https://github.com/fairuz-al/Financial-Manager_LaravelBased) | - | Using Laravel to manage financial that improve income and visual the decreased of income or increased of it, so that can help you manage your financial  | 2026-03-12 |
-| [Project-EigenFace](https://github.com/fairuz-al/Project-EigenFace) | Python | Project Besar dari ALJABAR LINEAR | 2025-06-10 |
-| [L0124014_Fairuz-Siba-Al-Khirza_LearningLabs-](https://github.com/fairuz-al/L0124014_Fairuz-Siba-Al-Khirza_LearningLabs-) | HTML | Pekerjaan Front End | 2024-11-09 |
+| [managery-schedule-UNS](https://github.com/Alkhirza/managery-schedule-UNS) | JavaScript | I create this project to effectively get schedule when i was on my campus use file that contain my class and file generate uns | 2026-08-25 |
+| [AgroAI](https://github.com/Alkhirza/AgroAI) | HTML | - | 2026-07-08 |
+| [Financial-Manager_LaravelBased](https://github.com/Alkhirza/Financial-Manager_LaravelBased) | - | Using Laravel to manage financial that improve income and visual the decreased of income or increased of it, so that can help you manage your financial  | 2026-03-12 |
+| [Project-EigenFace](https://github.com/Alkhirza/Project-EigenFace) | Python | Project Besar dari ALJABAR LINEAR | 2025-06-10 |
+| [L0124014_Fairuz-Siba-Al-Khirza_LearningLabs-](https://github.com/Alkhirza/L0124014_Fairuz-Siba-Al-Khirza_LearningLabs-) | HTML | Pekerjaan Front End | 2024-11-09 |
 <!-- RECENT:END -->
 
 ---
