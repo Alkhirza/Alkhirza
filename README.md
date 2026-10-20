@@ -56,13 +56,18 @@ I build backend services and web applications with a focus on clean architecture
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alkhirza&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="170"/>
 </p>
 
-## 🐍 Contribution Snake
+## 📈 Activity Metrics
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alkhirza/Alkhirza/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Alkhirza/Alkhirza/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <a href="https://github.com/Alkhirza">
+    <img src="https://raw.githubusercontent.com/Alkhirza/Alkhirza/main/metrics.svg" alt="GitHub metrics" />
+  </a>
+</p>
+
+## 🧰 Skills
+
+<p align="center">
+  <a href="https://github.com/Alkhirza?tab=repositories&language=go"><img src="https://skillicons.dev/icons?i=go,python,php,laravel,react,js,html,css,docker,git,github,linux" alt="Skills" /></a>
 </p>
 
 ## 📦 Recent Repositories
