@@ -12,11 +12,11 @@
 
 ---
 
-## 👋 About
+## 👋 About Me
 
 I build backend services and web applications with a focus on clean architecture, multi-tenant systems, and applied algorithms. My work spans university practicum projects and team-based development, where I contribute from API design to user interfaces.
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack i Use
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
@@ -78,11 +78,5 @@ I build backend services and web applications with a focus on clean architecture
 <!-- RECENT:END -->
 
 ---
-
-<div align="center">
-
-**Open to collaboration and internship opportunities.**
-
-<sub>Thanks for visiting! ✨</sub>
 
 </div>
